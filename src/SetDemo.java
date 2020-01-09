@@ -34,5 +34,8 @@ public class SetDemo {
 
         set.remove("Jim");
         System.out.println("set after removing Jim "+set);
+
+        // Set size
+        System.out.println("Set size is "+ set.size());
     }
 }
